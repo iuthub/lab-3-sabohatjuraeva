@@ -45,6 +45,6 @@ body {
 	float: left;
 }
 
-*:hover {
+*:active {
 	background-color: yellow;
 }
